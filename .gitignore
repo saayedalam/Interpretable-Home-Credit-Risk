@@ -9,3 +9,5 @@ data/raw/*
 # But don't use this line if you want to track .gitkeep in other folders
 # .gitkeep
 data/final/.gitkeep
+*.twbx
+*.twbx
